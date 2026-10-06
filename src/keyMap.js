@@ -1,0 +1,17 @@
+export const DEFAULT_KEY_MAP = Object.freeze({
+  Key0: "Y",
+  Key1: "U",
+  Key2: "I",
+  Key3: "O",
+  Key4: "P",
+  Key5: "H",
+  Key6: "J",
+  Key7: "K",
+  Key8: "L",
+  Key9: ";",
+  Key10: "N",
+  Key11: "M",
+  Key12: ",",
+  Key13: ".",
+  Key14: "/",
+});
